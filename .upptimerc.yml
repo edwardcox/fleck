@@ -1,11 +1,12 @@
 # Change these first
 owner: edwardcox # Your GitHub organization or username, where this repository lives
 repo: fleck # The name of this repository
+user-agent: edwardcox
 
 sites:
   - name: fleck.com.au
     url: https://fleck.com.au
-  - name: CloudFlare
+  - name: CloudFlare (DNS and CDN)
     url: https://cloudflare.com
     
 status-website:
