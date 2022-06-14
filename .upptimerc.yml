@@ -7,6 +7,11 @@ sites:
   - name: fleck.com.au
     url: https://fleck.com.au
     icon: https://fleck.com.au/wp-content/uploads/2019/09/fleck.jpg
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+    maxResponseTime: 5000
   - name: CloudFlare (DNS and CDN)
     url: https://cloudflare.com
   - name: Google DNS 1
