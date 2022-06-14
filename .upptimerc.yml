@@ -6,6 +6,7 @@ user-agent: edwardcox
 sites:
   - name: fleck.com.au
     url: https://fleck.com.au
+    icon: https://fleck.com.au/wp-content/uploads/2019/09/fleck.jpg
   - name: CloudFlare (DNS and CDN)
     url: https://cloudflare.com
   - name: Google DNS 1
@@ -22,7 +23,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: fleck.siteauditpro.com.au
   # baseUrl: /your-repo-name
-  logoUrl: https://fleck.com.au/wp-content/uploads/2019/09/fleck.jpg
+  logoUrl: https://i0.wp.com/siteauditpro.com.au/wp-content/uploads/2022/06/SAP-LOGO-189x60-px-1.png?w=189&ssl=1
   name: Fleck.com.au Status
   introTitle: "This WordPress site is being monitored by SiteAudit Pro.."
   introMessage: 24x7 awareness and alerting enabled.
